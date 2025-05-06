@@ -13,7 +13,10 @@ credits: true
 
 ## About the Collection
 
-A collection of European weapon treatises from the 18th century and before. While Gorse wrote his treatise 1786, much of his work focused on medieval period armor and earlier cultures. Please note that some artifacts within this collection contain historic and subject-relavant depictions of nudity. Please view with appropriate caution.
+This collection contains European weapon treatises prints from the 18th century and before. While Gorse wrote his treatise 1786, much of his work focused on medieval period armor and earlier cultures. This collection was created with the intended use as an initial reference for historical reenactors, including those interested in costuming, sribal arts, bladesmithing, and armored combat. 
+
+Please note that some artifacts within this collection contain historic and subject-relavant depictions of nudity. Please view with appropriate caution.
+
 
 {% include feature/pdf.html objectid="coll004" width="50" %}
 
